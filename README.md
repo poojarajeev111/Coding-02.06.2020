@@ -1,5 +1,6 @@
-
 package com.journaldev.linkedlist.reverse;
+
+public class MyLinkedList {
 
 public Node head;
 
@@ -15,6 +16,7 @@ next = null;
 }
 }
 }
+
 
 
 package com.journaldev.linkedlist.loopDetection;
